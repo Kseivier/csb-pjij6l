@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-pjij6l/static/css/main.f7eb737c.chunk.css",
+    "main.js": "https://.github.io/csb-pjij6l/static/js/main.248f060a.chunk.js",
+    "main.js.map": "https://.github.io/csb-pjij6l/static/js/main.248f060a.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-pjij6l/static/js/runtime-main.2e497ff2.js",
+    "runtime-main.js.map": "https://.github.io/csb-pjij6l/static/js/runtime-main.2e497ff2.js.map",
+    "static/js/2.d1efac12.chunk.js": "https://.github.io/csb-pjij6l/static/js/2.d1efac12.chunk.js",
+    "static/js/2.d1efac12.chunk.js.map": "https://.github.io/csb-pjij6l/static/js/2.d1efac12.chunk.js.map",
+    "index.html": "https://.github.io/csb-pjij6l/index.html",
+    "static/css/main.f7eb737c.chunk.css.map": "https://.github.io/csb-pjij6l/static/css/main.f7eb737c.chunk.css.map",
+    "static/js/2.d1efac12.chunk.js.LICENSE.txt": "https://.github.io/csb-pjij6l/static/js/2.d1efac12.chunk.js.LICENSE.txt",
+    "static/media/plus-icon.b030f6ae.svg": "https://.github.io/csb-pjij6l/static/media/plus-icon.b030f6ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e497ff2.js",
+    "static/js/2.d1efac12.chunk.js",
+    "static/css/main.f7eb737c.chunk.css",
+    "static/js/main.248f060a.chunk.js"
+  ]
+}
